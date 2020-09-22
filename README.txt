@@ -23,10 +23,9 @@ To test the API, implemented BDD Restassured Framework in IntelliJ using JAVA. F
 
 ######### Quick Start############
 
-1. Install IntelliJ.
-2. Open Project
-3. Run FeatureTestFile.feature
-
+1. Open command Prompt and do the following:
+ 	- Go to Project directory using command line.
+	- run command: mvn test verify
 
 
 
